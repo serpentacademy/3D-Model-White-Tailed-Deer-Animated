@@ -50,4 +50,9 @@
     <h2>🚀 About the Creator</h2>
     <p>I focus on documenting Mexican wildlife through 3D technology and digital storytelling. Explore more projects here:</p>
     <ul>
-        <li><a href="https://animalanimator.com" target="_blank" rel
+        <li><a href="https://animalanimator.com" target="_blank" rel="noopener"><strong>AnimalAnimator.com</strong></a> – 3D Animal Animation & Game Development tutorials.</li>
+        <li><a href="https://mexicorojo.com" target="_blank" rel="noopener"><strong>MexicoRojo.com</strong></a> – Nature and Ecosystems of Mexico.</li>
+    </ul>
+
+</body>
+</html>
